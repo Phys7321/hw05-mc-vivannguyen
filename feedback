@@ -1,0 +1,2 @@
+12.7
+i think that there is something wrong when going through the IBM rng, it is bad, but in this instance should give a result that is actually much better than the simple lcm - take home message - even bad pseudorandom number generators are good enough to do simple things. Also, the importance sampling for the first integral should be at least as good as the hit or miss MC method. And did you find the minimum of the variance for the second integral? or does it just keep decreasing?
